@@ -1,2 +1,2 @@
 # porfolio
-My personal website: [check it out!]( https://yoyoy74662000.github.io/porfolio/)
+[My personal website]( https://yoyoy74662000.github.io/porfolio/)
